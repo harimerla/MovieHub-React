@@ -33,6 +33,9 @@ git clone https://github.com/harimerla/MovieHub-React.git
 # Navigate to the project directory
 cd MovieHub-React
 
+#Install required packages
+npm install
+
 # Start React server and page in your browser
 npm start
 
