@@ -1,6 +1,5 @@
-# Movie Search Website
+# MovieHub Search Website
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -21,7 +20,7 @@ Include a link to a live demo or screenshots of your website. You can use servic
 - HTML
 - CSS
 - JavaScript
-- [Any additional libraries or frameworks you've used]
+- React
 
 ## Installation
 
@@ -29,9 +28,10 @@ Provide instructions on how to install and run your project locally. Include any
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/movie-search-website.git
+git clone https://github.com/harimerla/MovieHub-React.git
 
 # Navigate to the project directory
-cd movie-search-website
+cd MovieHub-React
 
-# Open index.html in your browser
+# Start React server and page in your browser
+npm start
