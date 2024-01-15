@@ -36,5 +36,8 @@ cd MovieHub-React
 # Start React server and page in your browser
 npm start
 
-![image](https://github.com/harimerla/MovieHub-React/assets/35225821/2ffc6199-2baf-4245-984d-f0b483645287)
+```bash
+
+![image](https://github.com/harimerla/MovieHub-React/assets/35225821/4e4b0b81-3b77-4a8e-b72d-ffcd5aca20e7)
+
 
