@@ -11,10 +11,6 @@ A responsive and user-friendly website for searching and exploring movies. The w
 - **Detailed Information:** Get detailed information about each movie.
 - **Responsive Design:** The website is designed to work seamlessly on various devices.
 
-## Demo
-
-Include a link to a live demo or screenshots of your website. You can use services like GitHub Pages, Netlify, or Vercel for hosting.
-
 ## Technologies Used
 
 - HTML
