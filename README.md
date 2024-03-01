@@ -33,7 +33,7 @@ cd MovieHub-React
 npm install
 
 # Start React server and page in your browser
-npm start 
+npm start
 
 ```
 
