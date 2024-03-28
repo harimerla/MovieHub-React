@@ -1,7 +1,7 @@
 # MovieHub Search Website  
 
 
-## Description 
+## Description
 
 A responsive and user-friendly website for searching and exploring movies. The website provides information about movies, including details such as title, release date, and a brief description.
 
